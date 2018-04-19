@@ -10,22 +10,24 @@
 
 <div class="footer-bottom">
 
-<p>Lightflows Limited, The Surrey Technology Centre
-40 Occam Road, Guildford, Surrey. GU2 7YG</p>
+<p>Transcend Digital Solutions,
+123 Narnia</p>
 
-<p>01483 688480</p>
+<p>08000000000</p>
 
-<p>Vat Registration: 123 456 789</p>
+<p>Vat Registration: 007</p>
 
 <ul>
 
-<li>Contact</li>
-<li>Jobs</li>
-<li>Terms and Conditions</li>
-<li>Cookies Policy</li>
+<a href="contact.php"><li>Contact</li></a>
+<a href="jobs.php"><li>Jobs</li></a>
+<a href="#"><li>Terms and Conditions</li></a>
+<a href="#"><li>Cookies Policy</li></a>
 
 </ul>
 
 </div>
 
 </footer>
+
+<script src="scripts.js"></script>

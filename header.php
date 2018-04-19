@@ -10,18 +10,17 @@
         <span class="icon-bar"></span>
       </button>
 
-<a class="navbar-brand" href="#"><img src="images/logo.png"></a>
+<a class="navbar-brand" href="/Transcend-Digital-Solutions/"><img src="images/logo.png"></a>
 </div>
 
 <div class="navbar-right collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="/Portfolio/"> SERVICES</a></li>
-        <li><a href="#">WORK </a></li>
-        <li><a href="#">COMPANY</a></li>
-		<li><a href="#">OUR APPROACH</a></li>
-		<li><a href="#">BLOG</a></li>
-		<li><a href="#">JOBS</a></li>
-		<li><a href="#">CONTACT</a></li>
+        <li class="active"><a href="services.php"> SERVICES</a></li>
+        <li><a href="work.php">WORK </a></li>
+        <li><a href="company.php">COMPANY</a></li>
+		<li><a href="our-approach.php">OUR APPROACH</a></li>
+		<li><a href="jobs.php">JOBS</a></li>
+		<li><a href="contact.php">CONTACT</a></li>
 		<li><button><p>START A PROJECT</p></button></li>
       </ul>
     </div>
