@@ -1,3 +1,76 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center; }
 
+.showcase {
+  height: 100vh;
+  width: 100vw; }
+
+/* Navbar */
+.navbar {
+  position: absolute;
+  z-index: 2; }
+
+.navbar-inner {
+  background: transparent !important; }
+
+.navbar-toggle {
+  position: relative;
+  top: 20px !important; }
+
+.icon-bar {
+  background: white !important;
+  width: 40px !important;
+  padding-top: 5px; }
+
+/*Homepage mobile first*/
+.showcase {
+  position: relative;
+  top: -100px;
+  height: 100vh;
+  width: 100vw; }
+
+.homepage-image {
+  height: 100%;
+  width: 100%;
+  background-image: url("images/homepage-showcase.jpeg");
+  background-size: 100% 100%;
+  background-repeat: none;
+  position: absolute; }
+
+.showcase-text {
+  position: relative;
+  top: 200px;
+  z-index: 1;
+  max-width: 70%;
+  height: 200px;
+  margin: 0 auto;
+  font-family: 'Black Han Sans', sans-serif; }
+  .showcase-text h1 {
+    color: white;
+    font-weight: 500; }
+  .showcase-text p {
+    color: white;
+    font-weight: 400; }
+
+.scroll-button {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  bottom: 30px; }
+  .scroll-button .fa {
+    position: relative;
+    top: 20px !important;
+    color: white; }
+
+/*Homepage media queries*/
+/*********************************************************************************************************************************/
 
 /*# sourceMappingURL=style.css.map */

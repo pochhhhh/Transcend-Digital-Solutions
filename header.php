@@ -1,7 +1,7 @@
 <header>
 
-<nav style="height:80px !important;"class="navbar navbar-default">
-<div class="container-fluid">
+<nav style="height:80px !important;"class="navbar">
+<div class="container">
 
 <div class="navbar-header">
      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">

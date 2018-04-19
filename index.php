@@ -13,11 +13,22 @@
 
 <section class="showcase">
 
+<div class="homepage-image"></div>
+
+<div class="showcase-text">
+
 <h1>DELIVERING DIGITAL SUCCESS</h1>
 
 <p>WEBSITES, MOBILE APPLICATIONS AND MARKETING</p>
 
-<div class="scroll-button"></div>
+</div>
+
+<div class="scroll-button">
+
+<i class="fa fa-arrow-circle-down fa-4x" aria-hidden="true"></i>
+
+
+</div>
 
 </section>
 
