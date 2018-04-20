@@ -47,11 +47,16 @@
 
 </div>
 
+<div id="description-box-container">
+
 <div class="description-box">
 
 <h2>WEB DESIGN COMPANY</h2>
 
 <p>To us, a website is more than a thing of beauty, it’s a powerful business tool to engage customers and drive business. We work with you to understand your business and customers to arrive at the best strategy possible for your budget. We’ll explore all of the possibilities and agree them with you before the team go to work to make it happen. An innovative web design agency, we build more than just websites. Our web development team builds powerful web based business solutions and applications too.</p>
+
+<br>
+<br>
 
 <a href="#"><p>Explore of our web design services ›</p></a>
 <a href="#"><p>Web development, web frameworks and platforms ›</p></a>
@@ -60,16 +65,24 @@
 
 <button><p>GET IN TOUCH</p></button>
 
-<img>
-
 
 </div>
+
+<div class="description-image">
+
+<img>
+
+</div>
+
 
 <div class="description-box">
 
 <h2>SOFTWARE AND APPS</h2>
 
 <p>Our experienced software development team produce web applications and bespoke business solutions, we develop native apps for all major mobile platforms including Apple’s iOS and Google’s Android operating systems, but that’s just scratching the surface. We consult on and deliver large software projects and platforms to B2B and Enterprise customers. Our development team comprises of a mix of talented back-end and front-end engineers delivering full end-to-end solutions. Through our labs program, we’re exploring and experimenting with new technologies such as iBeacons, Sensors and more recently, Wearables.</p>
+
+<br>
+<br>
 
 <a href="#"><p>List item</p></a>
 <a href="#"><p>List item</p></a>
@@ -78,8 +91,11 @@
 
 <button><p>GET IN TOUCH</p></button>
 
-<img>
+</div>
 
+<div class="description-image">
+
+<img>
 
 </div>
 
@@ -91,6 +107,9 @@
 
 We’ve helped a variety of retailers, manufacturers, wholesalers and service companies deliver B2C and B2B products. Building a eCommerce website is just one thing, knowing how to market and sell is another and we know how.</p>
 
+<br>
+<br>
+
 <a href="#"><p>List item</p></a>
 <a href="#"><p>List item</p></a>
 <a href="#"><p>List item</p></a>
@@ -98,8 +117,11 @@ We’ve helped a variety of retailers, manufacturers, wholesalers and service co
 
 <button><p>GET IN TOUCH</p></button>
 
-<img>
+</div>
 
+<div class="description-image">
+
+<img>
 
 </div>
 
@@ -109,6 +131,9 @@ We’ve helped a variety of retailers, manufacturers, wholesalers and service co
 
 <p>Our Digital Marketing team provides everything you need to promote your business online. From beautifully realised branding, photography, video and animation through to Pay Per Click (PPC) campaigns, Search Engine Optimisation (SEO, SEM) and Social Media Marketing (SMM) we consistently deliver success for our clients.</p>
 
+<br>
+<br>
+
 <a href="#"><p>List item</p></a>
 <a href="#"><p>List item</p></a>
 <a href="#"><p>List item</p></a>
@@ -116,11 +141,13 @@ We’ve helped a variety of retailers, manufacturers, wholesalers and service co
 
 <button><p>GET IN TOUCH</p></button>
 
-<img>
-
-
 </div>
 
+<div class="description-image">
+
+<img>
+
+</div>
 
 <div class="description-box">
 
@@ -128,6 +155,9 @@ We’ve helped a variety of retailers, manufacturers, wholesalers and service co
 
 <p>We offer a range of branding and brand identity solutions to help you differentiate your products and services for your company to truly stand out and be recognised.</p>
 
+<br>
+<br>
+
 <a href="#"><p>List item</p></a>
 <a href="#"><p>List item</p></a>
 <a href="#"><p>List item</p></a>
@@ -135,8 +165,13 @@ We’ve helped a variety of retailers, manufacturers, wholesalers and service co
 
 <button><p>GET IN TOUCH</p></button>
 
+</div>
+
+<div class="description-image">
+
 <img>
 
+</div>
 
 </div>
 

@@ -1,3 +1,12 @@
+$headerFont:'Black Han Sans', sans-serif;
+$smallTextFont: 'Open Sans', sans-serif;
+$darkGrey: #131314;
+$lightBlue: #0D6FF4;
+
+
+
+
+
 body{ 
 margin:0; padding:0; box-sizing:border-box; 
 text-align:center;
@@ -44,6 +53,8 @@ padding-top:5px;
 
 }
 
+/*********************************************************************************************************************************/
+
 /*Homepage mobile first*/
 
 .showcase{
@@ -74,7 +85,7 @@ z-index:1;
 max-width:70%;
 height:200px;
 margin: 0 auto;
-font-family: 'Black Han Sans', sans-serif;
+font-family: $headerFont;
 
 h1{
 
@@ -119,6 +130,109 @@ color:white;
 
 }
 
+.intro-text{
+
+position:relative;
+top:-60px;
+margin:30px;
+
+h1{
+
+font-family: $headerFont;
+font-size:24px;
+color:black;
+
+}
+
+h3{
+
+position:relative;
+top:20px;
+font-family:$smallTextFont;
+color:black;
+
+
+}
+
+p{
+
+font-family:$smallTextFont;
+position:relative;
+top:30px;
+font-size:16px;
+color:$darkGrey;
+}
+
+}
+
+.description-box{
+
+height: auto;
+text-align:left;
+margin-left: 30px;
+margin-right:30px;
+background:cyan;
+
+h2{
+
+color:$lightBlue;
+font-size:18px;
+font-family:$headerFont;
+
+}
+
+p{
+
+position:relative;
+top:25px;
+font-size:20px;
+
+}
+
+a{
+
+color:$lightBlue;
+
+}
+
+button{
+
+width:250px;
+height:60px;
+position:relative;
+top:30px;
+padding: 0;
+border: 1px solid black;
+background: none;
+
+
+p{
+
+position:relative;
+top:5px;
+
+}
+
+}
+
+}
+
+.description-image{
+
+background:yellow;
+height:200px;
+width:auto;
+margin-top:100px;
+
+img{
+
+height:100%;
+width:100%;
+
+}
+
+
+}
 
 
 
