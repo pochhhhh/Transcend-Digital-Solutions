@@ -31,7 +31,7 @@ body {
 .navbar {
   position: absolute;
   z-index: 2;
-  background: yellow; }
+  background: none; }
 
 .navbar-inner {
   background: transparent !important; }
@@ -39,7 +39,7 @@ body {
 .navbar-toggle {
   position: relative;
   top: -0px;
-  background: lime !important;
+  background: none !important;
   width: 50px !important; }
 
 .icon-bar {
@@ -66,9 +66,11 @@ button {
 
 /*********************************************************************************************************************************/
 /*Footer mobile*/
-.footer-top h1 {
-  font-family: "Black Han Sans", sans-serif;
-  color: black; }
+.footer-top {
+  margin-top: 70px; }
+  .footer-top h1 {
+    font-family: "Black Han Sans", sans-serif;
+    color: black; }
 
 .footer-bottom {
   margin-top: 100px; }
@@ -170,16 +172,14 @@ button {
 
 #projects-panel {
   display: grid;
-  width: 100vw;
+  width: 100%;
   height: 800px;
   margin-top: 100px;
-  grid-template-columns: 1fr;
-  grid-gap: 5px; }
+  grid-template-columns: 1fr; }
   #projects-panel .project-item {
     background: cyan;
     width: 100%;
-    min-height: 100px;
-    max-height: 200px; }
+    height: 250px; }
     #projects-panel .project-item img {
       width: 100%;
       height: 100%; }
@@ -199,6 +199,26 @@ button {
     #client-list .client-name img {
       height: 100%;
       width: 100%; }
+
+#homepage-section-c {
+  margin-top: 300px; }
+
+#review-generator {
+  height: 500px;
+  width: 100%;
+  background: lime; }
+
+.review-button-panel {
+  margin: 0 auto;
+  background: yellow;
+  height: 100px;
+  width: 300px; }
+
+.circle-button {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background: blue; }
 
 /*Homepage media queries*/
 /*********************************************************************************************************************************/

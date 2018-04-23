@@ -260,9 +260,29 @@ We’ve helped a variety of retailers, manufacturers, wholesalers and service co
 
 </div>
 
-<div id="review-list">
 
-<h4>The team at Transcend Digital Solutions are amazing! They make great digital creations!</h4>
+<!--<h4>The team at Transcend Digital Solutions are amazing! They make great digital creations!</h4>-->
+
+<!-- Insert random review generator here -->
+
+<div id="review-generator">
+
+
+
+
+
+<div class="review-button-panel">
+
+<div class="circle-button"></div>
+<div class="circle-button"></div>
+<div class="circle-button"></div>
+
+</div>
+
+
+</div>
+
+
 
 <h2>John Smith</h2>
 
@@ -276,7 +296,7 @@ We’ve helped a variety of retailers, manufacturers, wholesalers and service co
 
 </div>
 
-</div>
+
 
 
 </section>
