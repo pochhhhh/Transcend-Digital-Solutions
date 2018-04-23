@@ -188,19 +188,26 @@ We’ve helped a variety of retailers, manufacturers, wholesalers and service co
 
 <p>A selection of our recent work</p>
 
-<button><p>SEE ALL PROJECTS</p></button>
+<button><p style="font-family: 'Black Han Sans', sans-serif;">SEE ALL PROJECTS</p></button>
 
 </div>
 
 <div id="projects-panel">
 
-<div class="project-item"></div>
+<div class="project-item">
+<img src="images/project-item1.jpeg">
+</div>
 
-<div class="project-item"></div>
+<div class="project-item">
+<img src="images/project-item1.jpeg">
+</div>
+<div class="project-item">
+<img src="images/project-item1.jpeg">
+</div>
+<div class="project-item">
+<img src="images/project-item1.jpeg">
+</div>
 
-<div class="project-item"></div>
-
-<div class="project-item"></div>
 
 </div>
 
@@ -214,6 +221,7 @@ We’ve helped a variety of retailers, manufacturers, wholesalers and service co
 
 <!--Client list section, give a few random brand names and logos in a list. Add an interactive review box at the bottom where the user can click to see multiple reviews-->
 
+
 <div class="center-caption">
 
 <h1>OUR CLIENTS</h1>
@@ -224,14 +232,30 @@ We’ve helped a variety of retailers, manufacturers, wholesalers and service co
 
 <div id="client-list">
 
-<div class="client-name"></div>
-<div class="client-name"></div>
-<div class="client-name"></div>
-<div class="client-name"></div>
-<div class="client-name"></div>
-<div class="client-name"></div>
-<div class="client-name"></div>
-<div class="client-name"></div>
+<div class="client-name">
+<img src="images/generic-client-logo.png">
+</div>
+<div class="client-name">
+<img src="images/generic-client-logo.png">
+</div>
+<div class="client-name">
+<img src="images/generic-client-logo.png">
+</div>
+<div class="client-name">
+<img src="images/generic-client-logo.png">
+</div>
+<div class="client-name">
+<img src="images/generic-client-logo.png">
+</div>
+<div class="client-name">
+<img src="images/generic-client-logo.png">
+</div>
+<div class="client-name">
+<img src="images/generic-client-logo.png">
+</div>
+<div class="client-name">
+<img src="images/generic-client-logo.png">
+</div>
 
 
 </div>

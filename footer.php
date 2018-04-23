@@ -17,14 +17,19 @@
 
 <p>Vat Registration: 007</p>
 
-<ul>
+<!--<ul>
 
 <a href="contact.php"><li>Contact</li></a>
 <a href="jobs.php"><li>Jobs</li></a>
 <a href="#"><li>Terms and Conditions</li></a>
 <a href="#"><li>Cookies Policy</li></a>
 
-</ul>
+</ul>-->
+
+<a href="#"><p>Contact</p></a>
+<a href="#"><p>Jobs</p></a>
+<a href="#"><p>Terms and Conditions</p></a>
+<a href="#"><p>Cookies Policy</p></a>
 
 </div>
 

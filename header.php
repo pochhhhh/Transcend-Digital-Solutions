@@ -21,7 +21,7 @@
 		<li><a href="our-approach.php">OUR APPROACH</a></li>
 		<li><a href="jobs.php">JOBS</a></li>
 		<li><a href="contact.php">CONTACT</a></li>
-		<li><button><p>START A PROJECT</p></button></li>
+		<li><button id="navbar-button"><p>START A PROJECT</p></button></li>
       </ul>
     </div>
 	
