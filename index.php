@@ -70,7 +70,7 @@
 
 <div class="description-image">
 
-<img>
+<img src="images/description-image.jpeg">
 
 </div>
 
@@ -95,7 +95,7 @@
 
 <div class="description-image">
 
-<img>
+<img src="images/description-image.jpeg">
 
 </div>
 
@@ -121,7 +121,7 @@ We’ve helped a variety of retailers, manufacturers, wholesalers and service co
 
 <div class="description-image">
 
-<img>
+<img src="images/description-image.jpeg">
 
 </div>
 
@@ -145,7 +145,7 @@ We’ve helped a variety of retailers, manufacturers, wholesalers and service co
 
 <div class="description-image">
 
-<img>
+<img src="images/description-image.jpeg">
 
 </div>
 
@@ -169,7 +169,7 @@ We’ve helped a variety of retailers, manufacturers, wholesalers and service co
 
 <div class="description-image">
 
-<img>
+<img src="images/description-image.jpeg">
 
 </div>
 
@@ -267,9 +267,17 @@ We’ve helped a variety of retailers, manufacturers, wholesalers and service co
 
 <div id="review-generator">
 
+  <i class="fa fa-quote-left fa-4x"></i>
 
 
 
+<div class="review-message">
+
+<p>This website is awesome! The layout is beautiful and the overall structure is so clean!</p>
+
+</div>
+
+<div class="review-author"><h2>John Doe</h2><p>SOME DUDE</p></div>
 
 <div class="review-button-panel">
 
@@ -279,20 +287,6 @@ We’ve helped a variety of retailers, manufacturers, wholesalers and service co
 
 </div>
 
-
-</div>
-
-
-
-<h2>John Smith</h2>
-
-<p>10K A DAY CEO, MAGIC PRODUCTIONS</p>
-
-<div id="review-buttons-panel">
-
-<div class="review-button"></div>
-<div class="review-button"></div>
-<div class="review-button"></div>
 
 </div>
 

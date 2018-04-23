@@ -17,6 +17,7 @@
 
 <p>Vat Registration: 007</p>
 
+<br>
 <!--<ul>
 
 <a href="contact.php"><li>Contact</li></a>
@@ -26,10 +27,13 @@
 
 </ul>-->
 
+
 <a href="#"><p>Contact</p></a>
 <a href="#"><p>Jobs</p></a>
 <a href="#"><p>Terms and Conditions</p></a>
 <a href="#"><p>Cookies Policy</p></a>
+
+
 
 </div>
 
