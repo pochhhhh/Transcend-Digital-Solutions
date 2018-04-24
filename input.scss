@@ -588,24 +588,17 @@ grid-template-columns: 1fr;
 .project-item{
 
 background:none;
-height:60vw;
+height:200px;
 width:auto;
 border:1px solid black;
 
 .hover-layer{
 
-background:none;
 height:100%;
 width:100%;
 position:absolute;
 top:-0px;
 
-
-&:hover{
-
-background:none;
-
-}
 
 .project-info{
 
@@ -654,3 +647,4 @@ width:100%;
 
 
 }
+

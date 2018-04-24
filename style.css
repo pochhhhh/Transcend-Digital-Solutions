@@ -316,17 +316,14 @@ button {
   grid-template-columns: 1fr; }
   #work-page-project-list .project-item {
     background: none;
-    height: 60vw;
+    height: 200px;
     width: auto;
     border: 1px solid black; }
     #work-page-project-list .project-item .hover-layer {
-      background: none;
       height: 100%;
       width: 100%;
       position: absolute;
       top: -0px; }
-      #work-page-project-list .project-item .hover-layer:hover {
-        background: none; }
       #work-page-project-list .project-item .hover-layer .project-info {
         position: relative;
         height: 60vw;

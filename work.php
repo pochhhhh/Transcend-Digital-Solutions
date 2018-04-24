@@ -49,7 +49,7 @@
 
 <img src="images/work-project-placeholder.jpeg">
 
-<div class="hover-layer" id="work-page-project-item-hover-2">
+<!--<div class="hover-layer" id="work-page-project-item-hover-1">-->
 
 <div class="project-info">
 
@@ -62,7 +62,6 @@
 </div>
 
 </div>
-
 
 
 
