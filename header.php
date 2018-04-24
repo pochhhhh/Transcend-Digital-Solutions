@@ -10,7 +10,10 @@
         <span class="icon-bar"></span>
       </button>
 
-<a class="navbar-brand" href="/Transcend-Digital-Solutions/"><img src="images/logo.png"></a>
+<!--<a class="navbar-brand" href="/Transcend-Digital-Solutions/"><img src="images/logo.png"></a>-->
+<a class="navbar-brand" href="/Transcend-Digital-Solutions/"><i class="fa fa-desktop fa-2x"></i>
+
+<h4 id="logo-text">Transcend <br> Digital <br> Solutions</h2></a>
 </div>
 
 <div class="navbar-right collapse navbar-collapse" id="myNavbar">

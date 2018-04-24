@@ -39,6 +39,15 @@ body {
   z-index: 2;
   background: none; }
 
+#logo-text {
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 400; }
+
+.fa-desktop {
+  color: white; }
+
 .navbar-inner {
   background: transparent !important; }
 
@@ -47,6 +56,11 @@ body {
   top: -0px;
   background: none !important;
   width: 50px !important; }
+
+.navbar-brand {
+  position: relative;
+  top: -20px;
+  left: 5px; }
 
 .icon-bar {
   background: white !important;
@@ -71,7 +85,7 @@ button {
     font-family: "Black Han Sans", sans-serif; }
 
 /*********************************************************************************************************************************/
-/*Footer mobile*/
+/*Footer mobile first*/
 .footer-top {
   background: #0D6FF4;
   height: 220px;
@@ -120,7 +134,7 @@ button {
 
 .showcase-text {
   position: relative;
-  top: 200px;
+  top: 250px;
   z-index: 1;
   max-width: 70%;
   height: 200px;
@@ -282,5 +296,53 @@ button {
 
 /*Homepage media queries*/
 /*********************************************************************************************************************************/
+/*Work page mobile first */
+#work-showcase {
+  background: black; }
+
+.showcase-text-left {
+  text-align: left; }
+  .showcase-text-left button {
+    border: 1px solid white; }
+  .showcase-text-left p {
+    font-family: "Open Sans", sans-serif; }
+
+#work-page-project-list {
+  margin-bottom: -130px;
+  background: none;
+  position: relative;
+  top: -100px;
+  display: grid;
+  grid-template-columns: 1fr; }
+  #work-page-project-list .project-item {
+    background: none;
+    height: 60vw;
+    width: auto;
+    border: 1px solid black; }
+    #work-page-project-list .project-item .hover-layer {
+      background: none;
+      height: 100%;
+      width: 100%;
+      position: absolute;
+      top: -0px; }
+      #work-page-project-list .project-item .hover-layer:hover {
+        background: none; }
+      #work-page-project-list .project-item .hover-layer .project-info {
+        position: relative;
+        height: 60vw;
+        top: 200px;
+        visibility: hidden; }
+        #work-page-project-list .project-item .hover-layer .project-info h3 {
+          color: white;
+          font-family: "Open Sans", sans-serif; }
+        #work-page-project-list .project-item .hover-layer .project-info button {
+          border: 1px solid white; }
+          #work-page-project-list .project-item .hover-layer .project-info button p {
+            color: white;
+            font-family: "Open Sans", sans-serif;
+            text-shadow: 1px 1px black; }
+    #work-page-project-list .project-item img {
+      height: 100%;
+      width: 100%; }
 
 /*# sourceMappingURL=style.css.map */

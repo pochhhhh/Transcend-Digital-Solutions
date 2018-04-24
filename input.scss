@@ -94,6 +94,21 @@ background:none;
 
 }
 
+#logo-text{
+
+color: white;
+font-family:$smallTextFont;
+font-size:20px;
+font-weight:400;
+
+}
+
+.fa-desktop{
+
+color: white;
+
+}
+
 .navbar-inner {
 
   background:transparent !important;
@@ -106,6 +121,13 @@ top:-0px;
 background:none !important;
 width:50px !important;
 
+}
+
+.navbar-brand{
+
+position:relative;
+top:-20px;
+left:5px;
 }
 
 .icon-bar{
@@ -146,7 +168,7 @@ font-family:$headerFont;
 /*********************************************************************************************************************************/
 
 
-/*Footer mobile*/
+/*Footer mobile first*/
 
 .footer-top{
 
@@ -231,7 +253,7 @@ position:absolute;
 .showcase-text{
 
 position:relative;
-top:200px;
+top:250px;
 z-index:1;
 max-width:70%;
 height:200px;
@@ -528,3 +550,107 @@ background:grey;
 
 
 /*********************************************************************************************************************************/
+
+/*Work page mobile first */
+#work-showcase{
+
+background:black;
+
+}
+
+.showcase-text-left{
+
+text-align:left;
+
+button{
+
+border: 1px solid white;
+
+
+}
+p{
+
+font-family:$smallTextFont;
+
+}
+
+}
+
+#work-page-project-list{
+
+margin-bottom:-130px;
+background:none;
+position:relative;
+top:-100px;
+display:grid;
+grid-template-columns: 1fr;
+
+.project-item{
+
+background:none;
+height:60vw;
+width:auto;
+border:1px solid black;
+
+.hover-layer{
+
+background:none;
+height:100%;
+width:100%;
+position:absolute;
+top:-0px;
+
+
+&:hover{
+
+background:none;
+
+}
+
+.project-info{
+
+position:relative;
+height:60vw;
+top:200px;
+visibility:hidden;
+
+h3{
+
+color:white;
+font-family:$smallTextFont;
+
+}
+
+button{
+
+border: 1px solid white;
+
+
+p{
+
+color:white;
+font-family:$smallTextFont;
+text-shadow: 1px 1px black;
+
+}
+
+}
+
+}
+
+}
+
+img{
+
+height:100%;
+width:100%;
+
+
+}
+
+
+
+}
+
+
+}

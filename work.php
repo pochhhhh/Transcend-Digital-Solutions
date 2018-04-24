@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 <html>
+
 <?php require("head.php");?>
 
 <body>
 
 <?php require("header.php");?>
 
-
 <main>
 
-<section class="showcase">
+<section id="work-showcase" class="showcase">
+
+<div class="showcase-text showcase-text-left">
 
 <p>Featured project</p>
 
@@ -17,155 +19,50 @@
 
 <button><p>VIEW CASE STUDY</p></button>
 
+</div>
+
 </section>
 
 
 
-<section id="project-list">
+<section id="work-page-project-list">
 
 <div class="project-item">
 
-<img>
+<img src="images/work-project-placeholder.jpeg">
+
+<div class="hover-layer" id="work-page-project-item-hover-1">
+
+<div class="project-info">
 
 <h3>COMPANY NAME</h3>
 
 <button><p>VIEW CASE STUDY</p></button>
 
-<div class="hover-layer"></div>
+</div>
+
+</div>
 
 </div>
 
 <div class="project-item">
 
-<img>
+<img src="images/work-project-placeholder.jpeg">
+
+<div class="hover-layer" id="work-page-project-item-hover-2">
+
+<div class="project-info">
 
 <h3>COMPANY NAME</h3>
 
 <button><p>VIEW CASE STUDY</p></button>
 
-<div class="hover-layer"></div>
+</div>
 
 </div>
 
-<div class="project-item">
-
-<img>
-
-<h3>COMPANY NAME</h3>
-
-<button><p>VIEW CASE STUDY</p></button>
-
-<div class="hover-layer"></div>
-
 </div>
 
-<div class="project-item">
-
-<img>
-
-<h3>COMPANY NAME</h3>
-
-<button><p>VIEW CASE STUDY</p></button>
-
-<div class="hover-layer"></div>
-
-</div>
-
-<div class="project-item">
-
-<img>
-
-<h3>COMPANY NAME</h3>
-
-<button><p>VIEW CASE STUDY</p></button>
-
-<div class="hover-layer"></div>
-
-</div>
-
-<div class="project-item">
-
-<img>
-
-<h3>COMPANY NAME</h3>
-
-<button><p>VIEW CASE STUDY</p></button>
-
-<div class="hover-layer"></div>
-
-</div>
-
-<div class="project-item">
-
-<img>
-
-<h3>COMPANY NAME</h3>
-
-<button><p>VIEW CASE STUDY</p></button>
-
-<div class="hover-layer"></div>
-
-</div>
-
-<div class="project-item">
-
-<img>
-
-<h3>COMPANY NAME</h3>
-
-<button><p>VIEW CASE STUDY</p></button>
-
-<div class="hover-layer"></div>
-
-</div>
-
-<div class="project-item">
-
-<img>
-
-<h3>COMPANY NAME</h3>
-
-<button><p>VIEW CASE STUDY</p></button>
-
-<div class="hover-layer"></div>
-
-</div>
-
-<div class="project-item">
-
-<img>
-
-<h3>COMPANY NAME</h3>
-
-<button><p>VIEW CASE STUDY</p></button>
-
-<div class="hover-layer"></div>
-
-</div>
-
-<div class="project-item">
-
-<img>
-
-<h3>COMPANY NAME</h3>
-
-<button><p>VIEW CASE STUDY</p></button>
-
-<div class="hover-layer"></div>
-
-</div>
-
-<div class="project-item">
-
-<img>
-
-<h3>COMPANY NAME</h3>
-
-<button><p>VIEW CASE STUDY</p></button>
-
-<div class="hover-layer"></div>
-
-</div>
 
 
 
@@ -175,6 +72,9 @@
 </section>
 
 </main>
+
 <?php require("footer.php");?>
+
 </body>
+
 </html>
