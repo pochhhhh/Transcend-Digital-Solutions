@@ -45,27 +45,6 @@
 
 </div>
 
-<div class="project-item">
-
-<img src="images/work-project-placeholder.jpeg">
-
-<!--<div class="hover-layer" id="work-page-project-item-hover-1">-->
-
-<div class="project-info">
-
-<h3>COMPANY NAME</h3>
-
-<button><p>VIEW CASE STUDY</p></button>
-
-</div>
-
-</div>
-
-</div>
-
-
-
-
 
 
 </section>

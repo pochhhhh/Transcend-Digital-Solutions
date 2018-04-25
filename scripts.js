@@ -23,8 +23,7 @@ $(".hover-layer").css("background", "rgba(0, 0, 0, 0)");
 
 $("#work-page-project-item-hover-1").click(function(){
 	
-alert("hi!");
-
+$(".project-info").css("visibility", "visible");
 
 });
 

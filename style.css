@@ -342,4 +342,70 @@ button {
       height: 100%;
       width: 100%; }
 
+/*********************************************************************************************************************************/
+/*Company page mobile first */
+#company-showcase {
+  background: green; }
+  #company-showcase p {
+    font-family: "Open Sans", sans-serif; }
+
+#company-section-a .text-box {
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: left; }
+#company-section-a h1 {
+  font-family: "Black Han Sans", sans-serif;
+  font-weight: 300;
+  color: black; }
+#company-section-a h4, #company-section-a p {
+  font-family: "Open Sans", sans-serif; }
+#company-section-a h4 {
+  font-size: 22px;
+  font-weight: 600; }
+#company-section-a p {
+  font-size: 16px;
+  color: #131314; }
+
+#company-section-b #team-panel {
+  background: #384956;
+  margin-top: 150px;
+  display: grid;
+  grid-template-columns: 1fr;
+  color: white; }
+  #company-section-b #team-panel .text {
+    position: relative;
+    top: 30px;
+    text-align: left;
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 320px; }
+    #company-section-b #team-panel .text h1 {
+      font-size: 20px;
+      font-family: "Black Han Sans", sans-serif;
+      position: relative; }
+    #company-section-b #team-panel .text p {
+      font-family: "Open Sans", sans-serif;
+      position: relative;
+      top: 20px; }
+  #company-section-b #team-panel .team-member:hover img {
+    opacity: 0.6; }
+  #company-section-b #team-panel .team-member:hover .overlay {
+    opacity: 1; }
+  #company-section-b #team-panel .team-member img {
+    height: auto;
+    width: 100%;
+    opacity: 1;
+    transition: 0.5 ease; }
+  #company-section-b #team-panel .team-member .team-member-info {
+    position: absolute;
+    transform: translate(10%, -200%);
+    color: white; }
+    #company-section-b #team-panel .team-member .team-member-info h3 {
+      font-family: "Open Sans", sans-serif; }
+    #company-section-b #team-panel .team-member .team-member-info p {
+      font-family: "Open Sans", sans-serif;
+      font-size: 15px; }
+  #company-section-b #team-panel .team-member .overlay {
+    opacity: 0; }
+
 /*# sourceMappingURL=style.css.map */

@@ -9,19 +9,26 @@
 
 <main>
 
-<section class="showcase">
+<section id="company-showcase" class="showcase">
+
+
+<div class="showcase-text">
 
 <h1>COMPANY</h1>
 
 <p>THINK DIGITAL</p>
 
+</div>
+
 </section>
 
 <section id="company-section-a">
 
+<div class="text-box">
+
 <h1>HELLO, WE’RE TRANSCEND</h1>
 
-<h4>We’re a passionate team of creative thinkers, digital experts, designers, developers and marketeers based in Guildford, in the heart of leafy Surrey.</h4>
+<h4>We’re a passionate team of creative thinkers, digital experts, designers, developers and marketeers based in London.</h4>
 
 <p>We work with businesses of all sizes, from small startups, medium sized businesses delivering both B2B and B2C digital solutions for our clients in a variety of channels.</p>
 
@@ -33,12 +40,18 @@
 
 <p>What sets us apart is our team’s rich history in the advertising and film industries, this experience influences our thinking, providing strategic advantages to our clients. With over 20 years of London agency experience, an in-house photography and videography team and crack squad of brand and graphic designers, you have the perfect digital agency right here, raring to go.</p>
 
+
+</div>
+
+
 <button><p>SEE OUR APPROACH</p></button>
 
 
 </section>
 
 <section id="company-section-b">
+
+<div id="team-panel">
 
 <div class="text">
 
@@ -48,112 +61,191 @@
 
 </div>
 
-<div id="team-panel">
-
 <div class="team-member">
-
-<img>
-
-<h3>TEAM MEMBER NAME</h3>
-<p>TITLE</p>
-
-
+  
+<img src="images/user.png">
+ 
+  <div class="overlay">
+    
+    <div class="team-member-info">
+      
+      <h3>TEAM MEMBER NAME</h3>
+      
+     <p>TITLE</p>
+      
+    </div>
+    
+  </div>
+ 
 </div>
 
-<div class="team-member">
-
-<img>
-
-<h3>TEAM MEMBER NAME</h3>
-<p>TITLE</p>
-
-
-</div>
 
 <div class="team-member">
-
-<img>
-
-<h3>TEAM MEMBER NAME</h3>
-<p>TITLE</p>
-
-
-</div>
-
-<div class="team-member">
-
-<img>
-
-<h3>TEAM MEMBER NAME</h3>
-<p>TITLE</p>
-
-
+  
+<img src="images/user.png">
+ 
+  <div class="overlay">
+    
+    <div class="team-member-info">
+      
+      <h3>TEAM MEMBER NAME</h3>
+      
+     <p>TITLE</p>
+      
+    </div>
+    
+  </div>
+ 
 </div>
 
 <div class="team-member">
-
-<img>
-
-<h3>TEAM MEMBER NAME</h3>
-<p>TITLE</p>
-
-
+  
+<img src="images/user.png">
+ 
+  <div class="overlay">
+    
+    <div class="team-member-info">
+      
+      <h3>TEAM MEMBER NAME</h3>
+      
+     <p>TITLE</p>
+      
+    </div>
+    
+  </div>
+ 
 </div>
 
 <div class="team-member">
-
-<img>
-
-<h3>TEAM MEMBER NAME</h3>
-<p>TITLE</p>
-
-
+  
+<img src="images/user.png">
+ 
+  <div class="overlay">
+    
+    <div class="team-member-info">
+      
+      <h3>TEAM MEMBER NAME</h3>
+      
+     <p>TITLE</p>
+      
+    </div>
+    
+  </div>
+ 
 </div>
 
 <div class="team-member">
-
-<img>
-
-<h3>TEAM MEMBER NAME</h3>
-<p>TITLE</p>
-
-
+  
+<img src="images/user.png">
+ 
+  <div class="overlay">
+    
+    <div class="team-member-info">
+      
+      <h3>TEAM MEMBER NAME</h3>
+      
+     <p>TITLE</p>
+      
+    </div>
+    
+  </div>
+ 
 </div>
 
 <div class="team-member">
-
-<img>
-
-<h3>TEAM MEMBER NAME</h3>
-<p>TITLE</p>
-
-
+  
+<img src="images/user.png">
+ 
+  <div class="overlay">
+    
+    <div class="team-member-info">
+      
+      <h3>TEAM MEMBER NAME</h3>
+      
+     <p>TITLE</p>
+      
+    </div>
+    
+  </div>
+ 
 </div>
 
 <div class="team-member">
-
-<img>
-
-<h3>TEAM MEMBER NAME</h3>
-<p>TITLE</p>
-
-
+  
+<img src="images/user.png">
+ 
+  <div class="overlay">
+    
+    <div class="team-member-info">
+      
+      <h3>TEAM MEMBER NAME</h3>
+      
+     <p>TITLE</p>
+      
+    </div>
+    
+  </div>
+ 
 </div>
 
 <div class="team-member">
+  
+<img src="images/user.png">
+ 
+  <div class="overlay">
+    
+    <div class="team-member-info">
+      
+      <h3>TEAM MEMBER NAME</h3>
+      
+     <p>TITLE</p>
+      
+    </div>
+    
+  </div>
+ 
+</div>
 
-<img>
+<div class="team-member">
+  
+<img src="images/user.png">
+ 
+  <div class="overlay">
+    
+    <div class="team-member-info">
+      
+      <h3>TEAM MEMBER NAME</h3>
+      
+     <p>TITLE</p>
+      
+    </div>
+    
+  </div>
+ 
+</div>
 
-<h3>TEAM MEMBER NAME</h3>
-<p>TITLE</p>
-
-
+<div class="team-member">
+  
+<img src="images/user.png">
+ 
+  <div class="overlay">
+    
+    <div class="team-member-info">
+      
+      <h3>TEAM MEMBER NAME</h3>
+      
+     <p>TITLE</p>
+      
+    </div>
+    
+  </div>
+ 
 </div>
 
 
 
 
-</div>
+</div> 
 
 </section>
 
