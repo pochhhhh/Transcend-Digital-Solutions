@@ -62,195 +62,194 @@
 </div>
 
 <div class="team-member">
-  
+
 <img src="images/user.png">
- 
+
   <div class="overlay">
-    
+
     <div class="team-member-info">
-      
+
       <h3>TEAM MEMBER NAME</h3>
-      
+
      <p>TITLE</p>
-      
+
     </div>
-    
+
   </div>
- 
+
 </div>
 
 
 <div class="team-member">
-  
+
 <img src="images/user.png">
- 
+
   <div class="overlay">
-    
+
     <div class="team-member-info">
-      
+
       <h3>TEAM MEMBER NAME</h3>
-      
+
      <p>TITLE</p>
-      
+
     </div>
-    
+
   </div>
- 
+
 </div>
 
 <div class="team-member">
-  
+
 <img src="images/user.png">
- 
+
   <div class="overlay">
-    
+
     <div class="team-member-info">
-      
+
       <h3>TEAM MEMBER NAME</h3>
-      
+
      <p>TITLE</p>
-      
+
     </div>
-    
+
   </div>
- 
+
 </div>
 
 <div class="team-member">
-  
+
 <img src="images/user.png">
- 
+
   <div class="overlay">
-    
+
     <div class="team-member-info">
-      
+
       <h3>TEAM MEMBER NAME</h3>
-      
+
      <p>TITLE</p>
-      
+
     </div>
-    
+
   </div>
- 
+
 </div>
 
 <div class="team-member">
-  
+
 <img src="images/user.png">
- 
+
   <div class="overlay">
-    
+
     <div class="team-member-info">
-      
+
       <h3>TEAM MEMBER NAME</h3>
-      
+
      <p>TITLE</p>
-      
+
     </div>
-    
+
   </div>
- 
+
 </div>
 
 <div class="team-member">
-  
+
 <img src="images/user.png">
- 
+
   <div class="overlay">
-    
+
     <div class="team-member-info">
-      
+
       <h3>TEAM MEMBER NAME</h3>
-      
+
      <p>TITLE</p>
-      
+
     </div>
-    
+
   </div>
- 
+
 </div>
 
 <div class="team-member">
-  
+
 <img src="images/user.png">
- 
+
   <div class="overlay">
-    
+
     <div class="team-member-info">
-      
+
       <h3>TEAM MEMBER NAME</h3>
-      
+
      <p>TITLE</p>
-      
+
     </div>
-    
+
   </div>
- 
+
 </div>
 
 <div class="team-member">
-  
+
 <img src="images/user.png">
- 
+
   <div class="overlay">
-    
+
     <div class="team-member-info">
-      
+
       <h3>TEAM MEMBER NAME</h3>
-      
+
      <p>TITLE</p>
-      
+
     </div>
-    
+
   </div>
- 
+
 </div>
 
 <div class="team-member">
-  
+
 <img src="images/user.png">
- 
+
   <div class="overlay">
-    
+
     <div class="team-member-info">
-      
+
       <h3>TEAM MEMBER NAME</h3>
-      
+
      <p>TITLE</p>
-      
+
     </div>
-    
+
   </div>
- 
+
 </div>
 
 <div class="team-member">
-  
+
 <img src="images/user.png">
- 
+
   <div class="overlay">
-    
+
     <div class="team-member-info">
-      
+
       <h3>TEAM MEMBER NAME</h3>
-      
+
      <p>TITLE</p>
-      
+
     </div>
-    
+
   </div>
- 
+
 </div>
 
 
-
-
-</div> 
+</div>
 
 </section>
 
 <section id="company-section-c">
 
+<div class="text">
 <h1>TRUSTED PARTNERS</h1>
 
 <p>For those skills we don’t have in-house we have a gang of trusted partners we can recommend and introduce: we’ve carefully chosen collaborators including copywriters, illustrators and PR contacts.</p>
@@ -258,6 +257,8 @@
 <h1>OUR WORK</h1>
 
 <p>That’s probably enough about us, why not have a look at some of our work?</p>
+
+</div>
 
 <button><p>RECENT WORK</p></button>
 

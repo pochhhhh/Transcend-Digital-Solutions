@@ -9,17 +9,96 @@
 
 <main>
 
-
-Services Page
-
 <section>
 
 <div id="services-list">
 
+  <div class="service-type">
+
+  <img src="images/service1.jpeg">
+
+    <div class="overlay">
+
+      <div class="service-info">
+
+        <i class="fa fa-desktop fa-4x"></i>
+
+        <h1>WEB</h1>
+
+       <button><p>WEB DESIGN AND WEB DEVELOPMENT</p></button>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class="service-type">
+
+  <img src="images/service1.jpeg">
+
+    <div class="overlay">
+
+      <div class="service-info">
+
+        <i class="fa fa-desktop fa-4x"></i>
+
+        <h1>SOFTWARE</h1>
+
+       <button><p>SOFTWARE DEVELOPMENT</p></button>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class="service-type">
+
+  <img src="images/service1.jpeg">
+
+    <div class="overlay">
+
+      <div class="service-info">
+
+        <i class="fa fa-desktop fa-4x"></i>
+
+        <h1>E-COMMERCE</h1>
+
+       <button><p>INSERT TEXT HERE</p></button>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class="service-type">
+
+  <img src="images/service1.jpeg">
+
+    <div class="overlay">
+
+      <div class="service-info">
+
+        <i class="fa fa-desktop fa-4x"></i>
+
+        <h1>MARKETING</h1>
+
+       <button><p>INSERT TEXT HERE</p></button>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+<!--
 
 <div class="service-type">
 
-<!-- Insert icon here -->
+
 
 <h1>WEB</h1>
 
@@ -30,7 +109,7 @@ Services Page
 
 <div class="service-type">
 
-<!-- Insert icon here -->
+
 
 <h1>SOFTWARE</h1>
 
@@ -41,7 +120,6 @@ Services Page
 
 <div class="service-type">
 
-<!-- Insert icon here -->
 
 <h1>E-COMMERCE</h1>
 
@@ -52,7 +130,7 @@ Services Page
 
 <div class="service-type">
 
-<!-- Insert icon here -->
+
 
 <h1>MARKETING</h1>
 
@@ -62,8 +140,10 @@ Services Page
 </div>
 
 
+-->
 
 </div>
+
 
 </section>
 

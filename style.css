@@ -395,17 +395,84 @@ button {
     height: auto;
     width: 100%;
     opacity: 1;
-    transition: 0.5 ease; }
+    transition: 0.5s ease; }
   #company-section-b #team-panel .team-member .team-member-info {
     position: absolute;
     transform: translate(10%, -200%);
     color: white; }
     #company-section-b #team-panel .team-member .team-member-info h3 {
-      font-family: "Open Sans", sans-serif; }
+      font-family: "Open Sans", sans-serif;
+      transition: 1s ease; }
     #company-section-b #team-panel .team-member .team-member-info p {
       font-family: "Open Sans", sans-serif;
       font-size: 15px; }
   #company-section-b #team-panel .team-member .overlay {
     opacity: 0; }
+
+#company-section-c {
+  height: 400px; }
+  #company-section-c .text {
+    text-align: left;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 60px; }
+  #company-section-c h1 {
+    font-family: "Black Han Sans", sans-serif; }
+  #company-section-c p {
+    font-family: "Open Sans", sans-serif; }
+
+/*********************************************************************************************************************************/
+/*Services page mobile first */
+#services-list {
+  margin-top: -140px;
+  margin-bottom: -30px;
+  height: auto;
+  width: 100%;
+  background: black;
+  display: grid;
+  grid-template-columns: 1fr; }
+  #services-list .service-type {
+    height: 400px; }
+    #services-list .service-type:hover img {
+      opacity: 0.8; }
+    #services-list .service-type img {
+      height: 100%;
+      width: 100%;
+      opacity: 0.2;
+      transition: 0.8s ease; }
+    #services-list .service-type .service-info {
+      position: absolute;
+      transform: translate(30%, -150%); }
+      #services-list .service-type .service-info button {
+        border: 1px solid white; }
+      #services-list .service-type .service-info h1, #services-list .service-type .service-info p {
+        color: white; }
+      #services-list .service-type .service-info p {
+        font-family: "Open Sans", sans-serif;
+        font-size: 16px; }
+
+/*********************************************************************************************************************************/
+/*Our approach page mobile first */
+#our-approach-showcase {
+  background: pink; }
+
+#our-approach-list {
+  margin-bottom: -30px;
+  display: grid;
+  grid-template-columns: 1fr; }
+  #our-approach-list .text {
+    text-align: left;
+    margin-left: 15px;
+    margin-right: 15px; }
+  #our-approach-list .our-approach-list-item {
+    height: 400px;
+    height: auto;
+    width: 100%; }
+    #our-approach-list .our-approach-list-item:nth-child(odd) {
+      background: #0D6FF4;
+      height: 400px; }
+    #our-approach-list .our-approach-list-item img {
+      height: auto;
+      width: 100%; }
 
 /*# sourceMappingURL=style.css.map */

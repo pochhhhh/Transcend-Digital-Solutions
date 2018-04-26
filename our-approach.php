@@ -9,17 +9,21 @@
 
 <main>
 
-<section class="showcase">
+<section id="our-approach-showcase" class="showcase">
+
+  <div class="showcase-text">
 
 
 <h1>OUR APPROACH</h1>
+
+</div>
 
 
 </section>
 
 <section id="our-approach-list">
 
-<div>
+<div class="text">
 
 <h1>OUR APPROACH</h1>
 <p>We understand that starting to build a website or app can be a daunting process so we’d like to share a little about how we work and the process we follow.</p>
