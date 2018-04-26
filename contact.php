@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <?php require("head.php");?>
 
 <body>
@@ -9,15 +10,21 @@
 
 <main>
 
-<section class="showcase">
+<section id="contact-showcase" class="showcase">
 
-<h1>COMPANY</h1>
+<div class="showcase-text">
+
+<h1>CONTACT</h1>
 
 <p>THINK DIGITAL</p>
+
+</div>
 
 </section>
 
 <section id="contact-info">
+
+<div class="text">
 
 <h1>NARNIA OFFICE</h1>
 
@@ -28,13 +35,15 @@
 <h3>SW36 111</h3>
 <br>
 
-<p>Call: 0800000000</p>
+<p>Call: <span>0800000000</span></p>
 
 <br>
 
 <p>Open: 9:30 until 18:30</p>
 
+</div>
 
+<button><p>SEND A MESSAGE</p></button>
 
 </section>
 

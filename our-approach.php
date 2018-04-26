@@ -39,9 +39,10 @@
 
 </div>
 
-<div class="our-approach-list-item img">
+<div class="our-approach-list-item">
 
-<img>
+<i class="fa fa-search fa-4x"></i>
+
 
 </div>
 
@@ -53,9 +54,10 @@
 
 </div>
 
-<div class="our-approach-list-item img">
+<div class="our-approach-list-item">
 
-<img>
+<i class="fa fa-star fa-4x"></i>
+
 
 </div>
 
@@ -69,9 +71,9 @@ We quickly establish the main structure of the pages you’ll require on your we
 
 </div>
 
-<div class="our-approach-list-item img">
+<div class="our-approach-list-item">
 
-<img>
+<i class="fa fa-edit fa-4x"></i>
 
 </div>
 
@@ -84,9 +86,9 @@ We quickly establish the main structure of the pages you’ll require on your we
 
 </div>
 
-<div class="our-approach-list-item img">
+<div class="our-approach-list-item">
 
-<img>
+<i class="fa fa-code fa-4x"></i>
 
 </div>
 
@@ -99,9 +101,9 @@ We quickly establish the main structure of the pages you’ll require on your we
 
 </div>
 
-<div class="our-approach-list-item img">
+<div class="our-approach-list-item">
 
-<img>
+<i class="fa fa-bolt fa-4x"></i>
 
 </div>
 
@@ -116,9 +118,9 @@ Maintenance and support is something we offer to help you get the best out of yo
 
 </div>
 
-<div class="our-approach-list-item img">
+<div class="our-approach-list-item">
 
-<img>
+<i class="fa fa-rocket fa-4x"></i>
 
 </div>
 
@@ -130,9 +132,9 @@ Maintenance and support is something we offer to help you get the best out of yo
 
 </div>
 
-<div class="our-approach-list-item img">
+<div class="our-approach-list-item" style="margin-bottom:-30px;">
 
-<img>
+<i class="fa fa-check-square fa-4x"></i>
 
 </div>
 

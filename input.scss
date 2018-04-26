@@ -919,13 +919,15 @@ font-size:16px;
 
 #our-approach-showcase{
 
-background: pink;
+background: $lightBlue;
 
 }
 
 
-
 #our-approach-list{
+
+margin-top:-50px;
+
 
 .text{
 
@@ -933,21 +935,68 @@ text-align: left;
 margin-left: 15px;
 margin-right: 15px;
 
+h1{
+
+font-size:20px;
+font-family:$headerFont;
+position:relative;
+
 
 }
-margin-bottom: -30px;
+
+p{
+
+font-family:$smallTextFont;
+position:relative;
+top:20px;
+
+
+}
+
+
+}
+
 display: grid;
 grid-template-columns: 1fr;
 
 .our-approach-list-item{
+height:auto;
 
-height:400px;
 
+h3{
+
+color:$lightBlue;
+text-align:left;
+margin-left:15px;
+margin-right:15px;
+font-family:$headerFont;
+font-size:18px;
+
+}
+
+p{
+
+text-align:left;
+margin-left:15px;
+margin-right:15px;
+font-family:$smallTextFont;
+
+}
+
+.fa{
+
+color:white;
+position: relative;
+top: 45%;
+transform: translateY(-50%);
+
+
+}
 
 &:nth-child(odd){
 
 background: $lightBlue;
-height:400px;
+height:300px;
 
 }
 
@@ -967,5 +1016,124 @@ img{
 
 
 
+
+}
+
+/*********************************************************************************************************************************/
+
+/*Jobs page mobile first */
+
+#jobs-showcase{
+
+background:orange;
+
+}
+
+.job-list-item{
+
+text-align:left;
+margin-left:15px;
+margin-right:15px;
+border-bottom: 1px solid black;
+
+h1{
+
+font-family:$headerFont;
+
+
+}
+
+ul, li, h2, h4, p{
+
+font-family:$smallTextFont;
+
+}
+
+h4{
+
+font-weight:bold;
+
+}
+
+ul li{
+
+position:relative;
+
+}
+
+ul, li, p{
+
+font-size:20px;
+
+}
+
+
+button{
+
+background:$lightBlue;
+border:none;
+position:relative;
+top:-5px;
+p{
+
+color:white;
+}
+
+}
+
+
+}
+
+/*********************************************************************************************************************************/
+
+/*Contact page mobile first */
+
+#contact-showcase{
+
+background:$lightBlue;
+
+}
+
+#contact-info{
+
+text-align:left;
+font-family:$smallTextFont;
+
+.text{
+
+margin-top:-30px;
+color:black;
+margin-left:15px;
+margin-right:15px;
+
+p{
+
+font-size:20px;
+
+span{
+
+font-weight:600;
+
+}
+
+}
+
+
+}
+
+button{
+
+border: 1px solid black;
+background:white;
+margin-bottom:30px;
+margin-left:15px;
+margin-right:15px;
+p{
+
+font-family:$smallTextFont;
+font-size:20px;
+}
+
+}
 
 }

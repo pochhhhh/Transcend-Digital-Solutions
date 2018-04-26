@@ -454,25 +454,105 @@ button {
 /*********************************************************************************************************************************/
 /*Our approach page mobile first */
 #our-approach-showcase {
-  background: pink; }
+  background: #0D6FF4; }
 
 #our-approach-list {
-  margin-bottom: -30px;
+  margin-top: -50px;
   display: grid;
   grid-template-columns: 1fr; }
   #our-approach-list .text {
     text-align: left;
     margin-left: 15px;
     margin-right: 15px; }
+    #our-approach-list .text h1 {
+      font-size: 20px;
+      font-family: "Black Han Sans", sans-serif;
+      position: relative; }
+    #our-approach-list .text p {
+      font-family: "Open Sans", sans-serif;
+      position: relative;
+      top: 20px; }
   #our-approach-list .our-approach-list-item {
-    height: 400px;
+    height: auto;
     height: auto;
     width: 100%; }
+    #our-approach-list .our-approach-list-item h3 {
+      color: #0D6FF4;
+      text-align: left;
+      margin-left: 15px;
+      margin-right: 15px;
+      font-family: "Black Han Sans", sans-serif;
+      font-size: 18px; }
+    #our-approach-list .our-approach-list-item p {
+      text-align: left;
+      margin-left: 15px;
+      margin-right: 15px;
+      font-family: "Open Sans", sans-serif; }
+    #our-approach-list .our-approach-list-item .fa {
+      color: white;
+      position: relative;
+      top: 45%;
+      transform: translateY(-50%); }
     #our-approach-list .our-approach-list-item:nth-child(odd) {
       background: #0D6FF4;
-      height: 400px; }
+      height: 300px; }
     #our-approach-list .our-approach-list-item img {
       height: auto;
       width: 100%; }
+
+/*********************************************************************************************************************************/
+/*Jobs page mobile first */
+#jobs-showcase {
+  background: orange; }
+
+.job-list-item {
+  text-align: left;
+  margin-left: 15px;
+  margin-right: 15px;
+  border-bottom: 1px solid black; }
+  .job-list-item h1 {
+    font-family: "Black Han Sans", sans-serif; }
+  .job-list-item ul, .job-list-item li, .job-list-item h2, .job-list-item h4, .job-list-item p {
+    font-family: "Open Sans", sans-serif; }
+  .job-list-item h4 {
+    font-weight: bold; }
+  .job-list-item ul li {
+    position: relative; }
+  .job-list-item ul, .job-list-item li, .job-list-item p {
+    font-size: 20px; }
+  .job-list-item button {
+    background: #0D6FF4;
+    border: none;
+    position: relative;
+    top: -5px; }
+    .job-list-item button p {
+      color: white; }
+
+/*********************************************************************************************************************************/
+/*Contact page mobile first */
+#contact-showcase {
+  background: #0D6FF4; }
+
+#contact-info {
+  text-align: left;
+  font-family: "Open Sans", sans-serif; }
+  #contact-info .text {
+    margin-top: -30px;
+    color: black;
+    margin-left: 15px;
+    margin-right: 15px; }
+    #contact-info .text p {
+      font-size: 20px; }
+      #contact-info .text p span {
+        font-weight: 600; }
+  #contact-info button {
+    border: 1px solid black;
+    background: white;
+    margin-bottom: 30px;
+    margin-left: 15px;
+    margin-right: 15px; }
+    #contact-info button p {
+      font-family: "Open Sans", sans-serif;
+      font-size: 20px; }
 
 /*# sourceMappingURL=style.css.map */
